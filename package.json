@@ -1,0 +1,23 @@
+{
+  "name": "classes_com_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "filme": "node classeFilme.js",
+    "pais": "node classePais.js",
+    "poke": "node classePokemon.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvisNascimento/classes_com_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvisNascimento/classes_com_typescript/issues"
+  },
+  "homepage": "https://github.com/ElvisNascimento/classes_com_typescript#readme"
+}
